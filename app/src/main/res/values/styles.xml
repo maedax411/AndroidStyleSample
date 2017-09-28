@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- スタイルの名前を定義 -->
+    <style name="buttonStyle">
+        <!-- サイズ -->
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">70dp</item>
+
+        <!-- マージン　-->
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+
+        <!-- 中央揃え　-->
+        <item name="android:layout_gravity">center</item>
+
+        <!-- 文字の装飾　-->
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textStyle">bold</item>　
+
+        <!-- 背景色　-->
+        <item name="android:background">@color/normalButton</item>　
+    </style>
+
+</resources>

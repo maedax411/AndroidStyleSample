@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- デフォルトで用意されている色の名前　-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 下記のタグで色を定義している　-->
+    <color name="normalButton">#f88aaa</color>
+    <color name="navyButton">#202f55</color>
+    <color name="textColor">#fff</color>
+
+</resources>
